@@ -3,10 +3,10 @@
 
 <h3 align="left"> Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://instagram.com/caiosargon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caiosargon" height="30" width="40" /></ a>
+<a href="https://instagram.com/caiosargon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caiosargon" height="30" width="40" /></ a>
   
   
-<a href="https://discord.gg/CAIO SARGON0590#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/discord.svg" alt="CAIO SARGON0590#" height="30" width="40" /></a> </p>
+<a href="https://discord.gg/CAIO SARGON0590#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CAIO SARGON0590#" height="30" width="40" /></a> </p>
 
 
 <h3 align="left">Idiomas e ferramentas:</h3>
