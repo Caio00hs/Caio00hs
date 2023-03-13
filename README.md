@@ -1,5 +1,5 @@
 ### Hi there , welcome my portifolio
-<img src="http://www.example.com/image.jpg" alt="Imagem de exemplo">
+
 <!--
 **Caio00hs/Caio00hs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
